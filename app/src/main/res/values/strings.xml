@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Audioknjiga Ontologija</string>
+    <string name="REST_URL">https://oziz.ffos.hr/nastava20192020/dpeuraca_19/ontapi/search/</string>
+    <string name="app_label">P3 Ontologija audioknjiga</string>
+    <string name="server_client_id">244469114866-cvvtra5tae41jk6oca7kthprma5nu4s6.apps.googleusercontent.com</string>
+</resources>

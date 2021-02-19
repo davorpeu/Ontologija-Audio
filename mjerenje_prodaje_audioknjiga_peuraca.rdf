@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja#"
+	xmlns:audio="http://oziz.ffos.hr/tsw1/2015/11/8/untitled-ontology-36#"
+	xmlns:ffos="http://oziz.ffos.hr/tsw1/2015/11/8/untitled-ontology-36#"
+
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:isbd="http://iflastandards.info/ns/isbd/elements/"
+	xmlns:dc="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+	<ffos:prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-1">
+	
+		<naslov>Wheel of Time</naslov>
+		<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Wheel_of_Time" />
+		<audio:tip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</audio:tip>
+		<audio:duzinaJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</audio:duzinaJe>
+		<audio:autorJe rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peter Jordan</audio:autorJe>
+<dc:description>Sport</dc:description>
+<foaf:name>Fish</foaf:name>
+	</ffos:prodaja>
+	
+
+	
+	<ffos:prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-11">
+		<naslov>Braća Karamazov</naslov>
+		<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Braća_Karamazov" />
+		<audio:tip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</audio:tip>
+		<audio:duzinaJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</audio:duzinaJe>
+		<audio:autorJe rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</audio:autorJe>
+
+	</ffos:prodaja>
+	
+	<ffos:prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-21">
+		<naslov>Conan</naslov>
+		<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Conan" />
+		<audio:tip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</audio:tip>
+		<audio:duzinaJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</audio:duzinaJe>
+		<audio:autorJe rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert E. Howard</audio:autorJe>
+
+	</ffos:prodaja>
+	
+	
+	<ffos:prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-31">
+		<naslov>Pjesma Vatre I Leda</naslov>
+		<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Pjesma_Vatre_I_Leda" />
+		<audio:tip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</audio:tip>
+		<audio:duzinaJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</audio:duzinaJe>
+		<audio:autorJe rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</audio:autorJe>
+
+	</ffos:prodaja>
+	
+	
+	<ffos:prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-41">
+		<naslov>DiscWorld</naslov>
+		<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#DiscWorld" />
+		<audio:tip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</audio:tip>
+		<audio:duzinaJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</audio:duzinaJe>
+		<audio:autorJe rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terry Pratchett</audio:autorJe>
+
+	</ffos:prodaja>
+	
+	<ffos:prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-51">
+		<naslov>Harry Potter</naslov>
+		<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Harry_Potter" />
+		<audio:tip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</audio:tip>
+		<audio:duzinaJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</audio:duzinaJe>
+		<audio:autorJe rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J.K. Rowling</audio:autorJe>
+
+	</ffos:prodaja>
+	
+	<ffos:prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-61">
+		<naslov>Idiot</naslov>
+		<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+		<audio:tip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</audio:tip>
+		<audio:duzinaJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</audio:duzinaJe>
+		<audio:autorJe rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</audio:autorJe>
+
+	</ffos:prodaja>
+	
+	
+	<ffos:prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-81">
+		<naslov>Igra Predstolja</naslov>
+		<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Igra_Predstolja" />
+		<audio:tip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</audio:tip>
+		<audio:duzinaJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</audio:duzinaJe>
+		<audio:autorJe rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</audio:autorJe>
+
+	</ffos:prodaja>
+	
+	
+	<ffos:prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-100">
+		<naslov>Gozba za Vrane</naslov>
+		<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Gozba_Za_Vrane" />
+		<audio:tip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</audio:tip>
+		<audio:duzinaJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</audio:duzinaJe>
+		<audio:autorJe rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</audio:autorJe>
+	</ffos:prodaja>
+</rdf:RDF>

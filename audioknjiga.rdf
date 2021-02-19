@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja#"
+xmlns:kljub="http://oziz.ffos.hr/tsw1/2015/11/8/untitled-ontology-36#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"  
+xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+xmlns:owl="http://www.w3.org/2002/07/owl#" 
+xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" 
+xmlns:dc="http://purl.org/dc/terms/" 
+xmlns:foaf="http://xmlns.com/foaf/0.1/"   
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-1">
+	<ime_psa>Wheel of Time</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Wheel_of_Time" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peter Jordan</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-2">
+	<ime_psa>Wheel of Time</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Wheel_of_Time" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peter Jordan</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-3">
+	<ime_psa>Wheel of Time</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Wheel_of_Time" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peter Jordan</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-4">
+	<ime_psa>Wheel of Time</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Wheel_of_Time" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peter Jordan</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-5">
+	<ime_psa>Wheel of Time</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Wheel_of_Time" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peter Jordan</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-6">
+	<ime_psa>Wheel of Time</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Wheel_of_Time" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peter Jordan</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-7">
+	<ime_psa>Wheel of Time</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Wheel_of_Time" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peter Jordan</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-8">
+	<ime_psa>Wheel of Time</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Wheel_of_Time" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peter Jordan</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-9">
+	<ime_psa>Wheel of Time</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Wheel_of_Time" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peter Jordan</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-10">
+	<ime_psa>Wheel of Time</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Wheel_of_Time" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Peter Jordan</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-11">
+	<ime_psa>Braća Karamazov</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Braća_Karamazov" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-12">
+	<ime_psa>Braća Karamazov</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Braća_Karamazov" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-13">
+	<ime_psa>Braća Karamazov</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Braća_Karamazov" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-14">
+	<ime_psa>Braća Karamazov</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Braća_Karamazov" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-15">
+	<ime_psa>Braća Karamazov</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Braća_Karamazov" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-16">
+	<ime_psa>Braća Karamazov</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Braća_Karamazov" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-17">
+	<ime_psa>Braća Karamazov</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Braća_Karamazov" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-18">
+	<ime_psa>Braća Karamazov</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Braća_Karamazov" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-19">
+	<ime_psa>Braća Karamazov</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Braća_Karamazov" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-20">
+	<ime_psa>Braća Karamazov</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Braća_Karamazov" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-21">
+	<ime_psa>Conan</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Conan" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert E. Howard</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-22">
+	<ime_psa>Conan</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Conan" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert E. Howard</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-23">
+	<ime_psa>Conan</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Conan" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert E. Howard</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-24">
+	<ime_psa>Conan</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Conan" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert E. Howard</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-25">
+	<ime_psa>Conan</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Conan" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert E. Howard</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-26">
+	<ime_psa>Conan</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Conan" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert E. Howard</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-27">
+	<ime_psa>Conan</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Conan" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert E. Howard</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-28">
+	<ime_psa>Conan</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Conan" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert E. Howard</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-29">
+	<ime_psa>Conan</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Conan" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert E. Howard</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-30">
+	<ime_psa>Conan</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Conan" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert E. Howard</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-31">
+	<ime_psa>Pjesma Vatre I Leda</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Pjesma_Vatre_I_Leda" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-32">
+	<ime_psa>Pjesma Vatre I Leda</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Pjesma_Vatre_I_Leda" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-33">
+	<ime_psa>Pjesma Vatre I Leda</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Pjesma_Vatre_I_Leda" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-34">
+	<ime_psa>Pjesma Vatre I Leda</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Pjesma_Vatre_I_Leda" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-35">
+	<ime_psa>Pjesma Vatre I Leda</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Pjesma_Vatre_I_Leda" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-36">
+	<ime_psa>Pjesma Vatre I Leda</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Pjesma_Vatre_I_Leda" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-37">
+	<ime_psa>Pjesma Vatre I Leda</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Pjesma_Vatre_I_Leda" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-38">
+	<ime_psa>Pjesma Vatre I Leda</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Pjesma_Vatre_I_Leda" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-39">
+	<ime_psa>Pjesma Vatre I Leda</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Pjesma_Vatre_I_Leda" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-40">
+	<ime_psa>Pjesma Vatre I Leda</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Pjesma_Vatre_I_Leda" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-41">
+	<ime_psa>DiscWorld</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#DiscWorld" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terry Pratchett</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-42">
+	<ime_psa>DiscWorld</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#DiscWorld" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terry Pratchett</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-43">
+	<ime_psa>DiscWorld</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#DiscWorld" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terry Pratchett</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-44">
+	<ime_psa>DiscWorld</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#DiscWorld" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terry Pratchett</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-45">
+	<ime_psa>DiscWorld</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#DiscWorld" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terry Pratchett</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-46">
+	<ime_psa>DiscWorld</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#DiscWorld" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terry Pratchett</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-47">
+	<ime_psa>DiscWorld</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#DiscWorld" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terry Pratchett</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-48">
+	<ime_psa>DiscWorld</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#DiscWorld" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terry Pratchett</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-49">
+	<ime_psa>DiscWorld</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#DiscWorld" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terry Pratchett</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-50">
+	<ime_psa>DiscWorld</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#DiscWorld" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terry Pratchett</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-51">
+	<ime_psa>Harry Potter</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Harry_Potter" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J.K. Rowling</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-52">
+	<ime_psa>Harry Potter</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Harry_Potter" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J.K. Rowling</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-53">
+	<ime_psa>Harry Potter</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Harry_Potter" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J.K. Rowling</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-54">
+	<ime_psa>Harry Potter</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Harry_Potter" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J.K. Rowling</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-55">
+	<ime_psa>Harry Potter</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Harry_Potter" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J.K. Rowling</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-56">
+	<ime_psa>Harry Potter</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Harry_Potter" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J.K. Rowling</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-57">
+	<ime_psa>Harry Potter</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Harry_Potter" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J.K. Rowling</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-58">
+	<ime_psa>Harry Potter</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Harry_Potter" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J.K. Rowling</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-59">
+	<ime_psa>Harry Potter</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Harry_Potter" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J.K. Rowling</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-60">
+	<ime_psa>Harry Potter</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Harry_Potter" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J.K. Rowling</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-61">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-62">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-63">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-64">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-65">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-66">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-67">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-68">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-69">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-70">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-71">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-72">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-73">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-74">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-75">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-76">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-77">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-78">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-79">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-80">
+	<ime_psa>Idiot</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Idiot" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dostojevski</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-81">
+	<ime_psa>Igra Predstolja</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Igra_Predstolja" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-82">
+	<ime_psa>Igra Predstolja</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Igra_Predstolja" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-83">
+	<ime_psa>Igra Predstolja</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Igra_Predstolja" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-84">
+	<ime_psa>Igra Predstolja</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Igra_Predstolja" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-85">
+	<ime_psa>Igra Predstolja</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Igra_Predstolja" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-86">
+	<ime_psa>Igra Predstolja</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Igra_Predstolja" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-87">
+	<ime_psa>Igra Predstolja</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Igra_Predstolja" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-88">
+	<ime_psa>Igra Predstolja</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Igra_Predstolja" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-89">
+	<ime_psa>Igra Predstolja</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Igra_Predstolja" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-90">
+	<ime_psa>Igra Predstolja</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Igra_Predstolja" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-91">
+	<ime_psa>Gozba za Vrane</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Gozba_Za_Vrane" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-92">
+	<ime_psa>Gozba za Vrane</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Gozba_Za_Vrane" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-93">
+	<ime_psa>Gozba za Vrane</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Gozba_Za_Vrane" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-94">
+	<ime_psa>Gozba za Vrane</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Gozba_Za_Vrane" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-95">
+	<ime_psa>Gozba za Vrane</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Gozba_Za_Vrane" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-96">
+	<ime_psa>Gozba za Vrane</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Gozba_Za_Vrane" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-97">
+	<ime_psa>Gozba za Vrane</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Gozba_Za_Vrane" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-98">
+	<ime_psa>Gozba za Vrane</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Gozba_Za_Vrane" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-99">
+	<ime_psa>Gozba za Vrane</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Gozba_Za_Vrane" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja><prodaja rdf:about="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja-100">
+	<ime_psa>Gozba za Vrane</ime_psa>
+	<uri_naslov rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Gozba_Za_Vrane" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mp3</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George R.R. Martin</kljub:vrijemeVa>
+	
+</prodaja></rdf:RDF>

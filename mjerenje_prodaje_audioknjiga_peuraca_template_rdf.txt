@@ -1,0 +1,29 @@
+<!-- For Prefix -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://oziz.ffos.hr/tsw2/dpeuraca/prodaja#"
+xmlns:kljub="http://oziz.ffos.hr/tsw1/2015/11/8/untitled-ontology-36#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"  
+xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+xmlns:owl="http://www.w3.org/2002/07/owl#" 
+xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" 
+xmlns:dc="http://purl.org/dc/terms/" 
+xmlns:foaf="http://xmlns.com/foaf/0.1/"   
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> 
+
+<!-- For Row Template -->
+
+<prodaja rdf:about="{{jsonize(cells["Prodaja"].value).replace('"', '')}}">
+	<ime_psa>{{jsonize(cells["Naslov"].value).replace('"', '')}}</ime_psa>
+	<uri_naslov rdf:resource="{{jsonize(cells["URI_Naslov"].value).replace('"', '')}}" />
+	<kljub:vrijemeVaganja rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{jsonize(cells["jeFormat"].value).replace('"', '')}}</kljub:vrijemeVaganja>
+	<kljub:tezakJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">{{jsonize(cells["Dužina u satima"].value).replace('"', '')}}</kljub:tezakJe>
+	<kljub:vrijemeVa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{jsonize(cells["jeNapisao"].value).replace('"', '')}}</kljub:vrijemeVa>
+	
+</mjerenje>
+    
+<!-- Don't put anything in Row Separator -->
+
+<!-- For Suffix -->
+
+</rdf:RDF>
