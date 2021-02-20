@@ -55,22 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
             });
 
-            GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-                    .requestIdToken(getString(R.string.server_client_id))
-                    .requestEmail()
-                    .build();
-            GoogleSignInClient googleSignInClient = GoogleSignIn.getClient(this, gso);
-            googleSignInClient.silentSignIn().addOnCompleteListener(this, new OnCompleteListener<GoogleSignInAccount>() {
-                @Override
-                public void onComplete(@NonNull Task<GoogleSignInAccount> task) {
-                    handleSignInResult(task);
-                }
-            });
 
-
-
-
-            mGoogleSignInClient = GoogleSignIn.getClient(this, gso);
 
 
 
@@ -80,9 +65,26 @@ public class MainActivity extends AppCompatActivity {
         protected void onStart () {
             super.onStart();
 
+            GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
+                    .requestIdToken(getString(R.string.server_client_id))
+                    .requestEmail()
+                    .build();
+            GoogleSignInClient googleSignInClient = GoogleSignIn.getClient(this, gso);
+// Silent Log in
+       /*     googleSignInClient.silentSignIn().addOnCompleteListener(this, new OnCompleteListener<GoogleSignInAccount>() {
+                @Override
+                public void onComplete(@NonNull Task<GoogleSignInAccount> task) {
+                    handleSignInResult(task);
+                }
+            });
+*/
 
-          //  GoogleSignInAccount account = GoogleSignIn.getLastSignedInAccount(this);
-          //   updateUI(account);
+            mGoogleSignInClient = GoogleSignIn.getClient(this, gso);
+
+
+
+            GoogleSignInAccount account = GoogleSignIn.getLastSignedInAccount(this);
+            updateUI(account);
         }
 
     private void updateUI(GoogleSignInAccount account) {
