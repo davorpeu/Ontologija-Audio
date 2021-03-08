@@ -7,27 +7,16 @@
     tools:context="ffos.p3.ontologija.MainActivity">
 
 
-    <Button
-        android:id="@+id/login_button"
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/sign_in_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="329dp"
-        android:text="Login"
+
+        android:clickable="true"
+        android:text="Sign in"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <TextView
-        android:id="@+id/Title_text"
-        android:layout_width="114dp"
-        android:layout_height="22dp"
-        android:layout_marginStart="136dp"
-        android:layout_marginTop="168dp"
-        android:layout_marginEnd="138dp"
-        android:text="Audio Ontologija"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.521"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
