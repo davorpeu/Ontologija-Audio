@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -20,6 +21,7 @@ import com.google.android.gms.tasks.Task;
 public class LoginActivity extends AppCompatActivity {
 
         SignInButton signIn;
+
         GoogleSignInClient mGoogleSignInClient;
        // GoogleApiClient mGoogleApiClient;
        private static final int RC_SIGN_IN = 1;
@@ -113,6 +115,8 @@ public class LoginActivity extends AppCompatActivity {
         }
 
     }
+
+
 
     private void handleSignInResult(Task completedTask) {
         try {

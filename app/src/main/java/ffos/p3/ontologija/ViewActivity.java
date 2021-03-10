@@ -16,6 +16,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.gms.auth.api.Auth;
+import com.google.android.gms.auth.api.identity.BeginSignInRequest;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;
@@ -48,6 +49,7 @@ public class ViewActivity extends AppCompatActivity {
     private GoogleSignInOptions mGoogleSignInOptions;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
@@ -59,7 +61,7 @@ public class ViewActivity extends AppCompatActivity {
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
                 .requestEmail()
                 .build();
-        
+
         mGoogleSignInClient = GoogleSignIn.getClient(this, gso);
 
         signOut = findViewById(R.id.button_sign_out);
@@ -77,6 +79,8 @@ public class ViewActivity extends AppCompatActivity {
             }
 
         });
+
+
 
 
         final RecyclerView recyclerView = findViewById(R.id.lista);
@@ -172,6 +176,7 @@ public class ViewActivity extends AppCompatActivity {
 
                         Intent intent = new Intent(ViewActivity.this, MainActivity.class);
                         startActivity(intent);
+                        //finish();
                     }
                 });
 
@@ -179,6 +184,19 @@ public class ViewActivity extends AppCompatActivity {
 
 
 
+    }
+
+    private void revokeAccess() {
+        mGoogleSignInClient.revokeAccess()
+                .addOnCompleteListener(this, new OnCompleteListener() {
+            @Override
+            public void onComplete(@NonNull Task task) {
+
+                Intent intent = new Intent(ViewActivity.this, MainActivity.class);
+                startActivity(intent);
+                //finish();
+            }
+        });
     }
 
     private void updateUI(@Nullable GoogleSignInAccount account) {
