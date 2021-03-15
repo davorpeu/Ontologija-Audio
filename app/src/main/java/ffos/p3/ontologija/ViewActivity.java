@@ -4,9 +4,11 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.telecom.Call;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -41,12 +43,14 @@ import java.util.List;
 
 public class ViewActivity extends AppCompatActivity {
 
+    private static final int DetailActivity = 1;
     private AdapterListe adapter;
     private RESTTask asyncTask;
     GoogleSignInClient mGoogleSignInClient;
     Button signOut;
     private TextView mStatusTextView;
     private GoogleSignInOptions mGoogleSignInOptions;
+    Button create;
 
 
 
@@ -79,6 +83,19 @@ public class ViewActivity extends AppCompatActivity {
             }
 
         });
+
+        create = findViewById(R.id.btnCreate);
+        create.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                newItem();
+
+            }
+        });
+
+
+
+
 
 
 
@@ -167,6 +184,14 @@ public class ViewActivity extends AppCompatActivity {
 
     }
 
+    private void newItem() {
+
+        Intent intent = new Intent(ViewActivity.this, DetailActivity.class);
+        startActivity(intent);
+        
+    }
+
+
 
     private void signOut() {
         mGoogleSignInClient.signOut()
@@ -212,6 +237,8 @@ public class ViewActivity extends AppCompatActivity {
             findViewById(R.id.sign_out_and_disconnect).setVisibility(View.GONE);
         }  */
     }
+
+
 
 
 }

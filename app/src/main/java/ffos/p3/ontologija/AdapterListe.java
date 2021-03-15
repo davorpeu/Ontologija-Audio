@@ -62,7 +62,7 @@ public class AdapterListe extends RecyclerView.Adapter<AdapterListe.Red> {
             naslov = itemView.findViewById(R.id.naslov);
             tip = itemView.findViewById(R.id.tip);
             duzina = itemView.findViewById(R.id.duzina);
-            autor = itemView.findViewById(R.id.autor);
+            autor = itemView.findViewById(R.id.duzina);
             itemView.setOnClickListener(this);
         }
 

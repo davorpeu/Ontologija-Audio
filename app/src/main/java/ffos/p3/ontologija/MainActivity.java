@@ -28,6 +28,9 @@ import com.google.android.gms.tasks.Task;
 public class MainActivity extends AppCompatActivity {
 
 
+    public static final int DETALJI=1;
+    public static final int OK=2;
+    public static final int GRESKA=3;
     GoogleSignInClient mGoogleSignInClient;
     // GoogleApiClient mGoogleApiClient;
     int RC_SIGN_IN = 0;

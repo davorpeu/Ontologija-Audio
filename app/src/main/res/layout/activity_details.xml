@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="1dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <EditText
+            android:id="@+id/naslov"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/naslov"
+            android:text="" />
+
+        <EditText
+            android:id="@+id/tip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/tip"
+            android:text="" />
+
+        <EditText
+            android:id="@+id/duzina"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/duzina"
+            android:text="" />
+
+        <EditText
+            android:id="@+id/autor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/autor"
+            android:text="" />
+
+        <Button
+            android:id="@+id/nazad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/odustani" />
+
+        <Button
+            android:id="@+id/promjeni"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/promjeni" />
+
+        <Button
+            android:id="@+id/obrisi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/obrisi" />
+
+        <Button
+            android:id="@+id/dodaj"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/newItem" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -3,4 +3,12 @@
     <string name="REST_URL">https://oziz.ffos.hr/nastava20192020/dpeuraca_19/ontapi/search/</string>
     <string name="app_label">P3 Ontologija audioknjiga</string>
     <string name="server_client_id">244469114866-cvvtra5tae41jk6oca7kthprma5nu4s6.apps.googleusercontent.com</string>
+    <string name="naslov">Naslov</string>
+    <string name="tip">Tip</string>
+    <string name="duzina">Duzina</string>
+    <string name="autor">Autor</string>
+    <string name="odustani">Odustani</string>
+    <string name="promjeni">Promjeni</string>
+    <string name="obrisi">Obrisi</string>
+    <string name="newItem">Novi Unos</string>
 </resources>
