@@ -49,8 +49,8 @@ public class DetailActivity extends AppCompatActivity {
         obrisi = findViewById(R.id.obrisi);
 
         Intent i = getIntent();
-        boolean novaOsoba = i.getBooleanExtra("ontologija",false);
-        if(!novaOsoba){
+        boolean novaOntologija = i.getBooleanExtra("ontologija",false);
+        if(!novaOntologija){
             ontologija = (Ontologija) i.getSerializableExtra("ontologija");
             naslov.setText(ontologija.getNaslov());
             autor.setText(ontologija.getAutor());
@@ -106,8 +106,8 @@ public class DetailActivity extends AppCompatActivity {
     private void promjeni() {
         ontologija.setNaslov(naslov.getText().toString());
         ontologija.setAutor(autor.getText().toString());
-        ontologija.setDuzina(autor.getText().toString());
-        ontologija.setTip(autor.getText().toString());
+        ontologija.setDuzina(duzina.getText().toString());
+        ontologija.setTip(tip.getText().toString());
 
         restTask.execute(getString(R.string.REST_URL)+ "/" + ontologija.getSifra(),"PUT",gson.toJson(ontologija));
     }
@@ -116,8 +116,8 @@ public class DetailActivity extends AppCompatActivity {
         ontologija = new Ontologija();
         ontologija.setNaslov(naslov.getText().toString());
         ontologija.setAutor(autor.getText().toString());
-        ontologija.setDuzina(autor.getText().toString());
-        ontologija.setTip(autor.getText().toString());
+        ontologija.setDuzina(duzina.getText().toString());
+        ontologija.setTip(tip.getText().toString());
 
         restTask.execute(getString(R.string.REST_URL) ,"POST",gson.toJson(ontologija));
     }

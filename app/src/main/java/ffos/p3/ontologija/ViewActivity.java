@@ -51,7 +51,7 @@ public class ViewActivity extends AppCompatActivity {
     private TextView mStatusTextView;
     private GoogleSignInOptions mGoogleSignInOptions;
     Button create;
-
+    Button newBtn;
 
 
     @Override
@@ -135,6 +135,8 @@ public class ViewActivity extends AppCompatActivity {
 
     }
 
+
+
     @Override
     public void onStart() {
         super.onStart();
@@ -186,11 +188,11 @@ public class ViewActivity extends AppCompatActivity {
 
     private void newItem() {
 
-        Intent intent = new Intent(ViewActivity.this, DetailActivity.class);
-        startActivity(intent);
-        
-    }
+        Intent i = new Intent(ViewActivity.this, DetailActivity.class);
+        i.putExtra("ontologija", true);
+        startActivityForResult(i,DetailActivity);
 
+    }
 
 
     private void signOut() {
