@@ -41,20 +41,20 @@ import java.text.BreakIterator;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ViewActivity extends AppCompatActivity {
+public class ViewActivity extends AppCompatActivity implements AdapterListe.ItemClickListener {
 
     private static final int DetailActivity = 1;
     public static final int OK=2;
     public static final int GRESKA=3;
     private AdapterListe adapter;
     private RESTTask asyncTask;
+
     GoogleSignInClient mGoogleSignInClient;
     Button signOut;
     private TextView mStatusTextView;
     private GoogleSignInOptions mGoogleSignInOptions;
     Button create;
-Button edit;
-Button delete;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -95,8 +95,25 @@ Button delete;
             }
         });
 
+/*
+        edit = findViewById(R.id.button_Edit);
+        edit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                editItem();
 
+            }
+        });
 
+        delete = findViewById(R.id.button_Delete);
+        delete.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                deleteItem();
+
+            }
+        });
+*/
 
 
 
@@ -106,10 +123,13 @@ Button delete;
 
         final RecyclerView recyclerView = findViewById(R.id.lista);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
+
+
         adapter = new AdapterListe(this);
+
         asyncTask = new RESTTask();
         asyncTask.execute( getString(R.string.REST_URL));
-        //adapter.setClickListener(this);
+        adapter.setClickListener(this);
         recyclerView.setAdapter(adapter);
 
 
@@ -145,13 +165,6 @@ Button delete;
 
 
 
-    private void onItemClick(View view, int position) {
-        Ontologija o = adapter.getItem(position);
-        Intent i = new Intent(this, DetailActivity.class);
-        i.putExtra("ontologija", o);
-        startActivityForResult(i,DetailActivity);
-        //Toast.makeText(this, "Odabrali ste Osobu s šifrom " + o.getSifra(), Toast.LENGTH_LONG).show();
-    }
 
 
     @Override
@@ -196,6 +209,7 @@ Button delete;
 
         }
 
+
         protected void onPostExecute(List<Ontologija> podaci) {
             adapter.setPodaci(podaci);
             adapter.notifyDataSetChanged();
@@ -210,8 +224,33 @@ Button delete;
         startActivityForResult(i,DetailActivity);
 
     }
+/*
+    private void editItem() {
+        Ontologija o = adapter.getItem(position);
+
+        Intent i = new Intent(this, DetailActivity.class);
+        i.putExtra("ontologija", o);
+        startActivityForResult(i,DetailActivity);
+
+    }private void deleteItem() {
+        Ontologija o = adapter.getItem(position);
+
+        Intent i = new Intent(this, DetailActivity.class);
+        i.putExtra("ontologija", o);
+        startActivityForResult(i,DetailActivity);
+
+    }
+*/
 
 
+@Override
+    public void onItemClick(View view, int position) {
+        Ontologija o = adapter.getItem(position);
+        Intent i = new Intent(this, DetailActivity.class);
+        i.putExtra("ontologija", o);
+        startActivityForResult(i,DetailActivity);
+        //Toast.makeText(this, "Odabrali ste Osobu s šifrom " + o.getSifra(), Toast.LENGTH_LONG).show();
+    };
 
     private void signOut() {
         mGoogleSignInClient.signOut()

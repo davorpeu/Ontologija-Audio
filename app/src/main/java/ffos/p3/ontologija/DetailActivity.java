@@ -40,7 +40,7 @@ public class DetailActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_details);
         naslov = findViewById(R.id.naslov);
-        autor = findViewById(R.id.tip);
+        autor = findViewById(R.id.autor);
         duzina = findViewById(R.id.duzina);
         tip = findViewById(R.id.tip);
         nazad = findViewById(R.id.nazad);
@@ -100,7 +100,7 @@ public class DetailActivity extends AppCompatActivity {
     }
 
     private void obrisi() {
-        restTask.execute(getString(R.string.REST_URL) + "/" + ontologija.getSifra(),"DELETE","");
+        restTask.execute(getString(R.string.REST_URL) + ontologija.getSifra(),"DELETE","");
     }
 
     private void promjeni() {
@@ -109,7 +109,7 @@ public class DetailActivity extends AppCompatActivity {
         ontologija.setDuzina(duzina.getText().toString());
         ontologija.setTip(tip.getText().toString());
 
-        restTask.execute(getString(R.string.REST_URL)+ "/" + ontologija.getSifra(),"PUT",gson.toJson(ontologija));
+        restTask.execute(getString(R.string.REST_URL) + ontologija.getSifra(),"PUT",gson.toJson(ontologija));
     }
 
     private void dodaj() {
