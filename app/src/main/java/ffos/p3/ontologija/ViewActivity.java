@@ -44,6 +44,8 @@ import java.util.List;
 public class ViewActivity extends AppCompatActivity {
 
     private static final int DetailActivity = 1;
+    public static final int OK=2;
+    public static final int GRESKA=3;
     private AdapterListe adapter;
     private RESTTask asyncTask;
     GoogleSignInClient mGoogleSignInClient;
@@ -51,8 +53,8 @@ public class ViewActivity extends AppCompatActivity {
     private TextView mStatusTextView;
     private GoogleSignInOptions mGoogleSignInOptions;
     Button create;
-    Button newBtn;
-
+Button edit;
+Button delete;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -100,9 +102,13 @@ public class ViewActivity extends AppCompatActivity {
 
 
 
+
+
         final RecyclerView recyclerView = findViewById(R.id.lista);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         adapter = new AdapterListe(this);
+        asyncTask = new RESTTask();
+        asyncTask.execute( getString(R.string.REST_URL));
         //adapter.setClickListener(this);
         recyclerView.setAdapter(adapter);
 
@@ -135,6 +141,17 @@ public class ViewActivity extends AppCompatActivity {
 
     }
 
+
+
+
+
+    private void onItemClick(View view, int position) {
+        Ontologija o = adapter.getItem(position);
+        Intent i = new Intent(this, DetailActivity.class);
+        i.putExtra("ontologija", o);
+        startActivityForResult(i,DetailActivity);
+        //Toast.makeText(this, "Odabrali ste Osobu s šifrom " + o.getSifra(), Toast.LENGTH_LONG).show();
+    }
 
 
     @Override
@@ -193,6 +210,7 @@ public class ViewActivity extends AppCompatActivity {
         startActivityForResult(i,DetailActivity);
 
     }
+
 
 
     private void signOut() {

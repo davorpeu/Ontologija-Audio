@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+
     android:orientation="vertical"
     android:padding="8dp">
 
@@ -84,20 +85,6 @@
             android:textAlignment="viewStart"
             android:textSize="12sp" />
     </LinearLayout>
-
-    <Button
-        android:id="@+id/btnDelete"
-        android:layout_width="98dp"
-        android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:text="Obriši" />
-
-    <Button
-        android:id="@+id/btnEdit"
-        android:layout_width="112dp"
-        android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:text="Uredi" />
 
 
 </LinearLayout>

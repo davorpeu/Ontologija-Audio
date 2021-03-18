@@ -1,6 +1,7 @@
 package ffos.p3.ontologija;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -62,13 +63,14 @@ public class AdapterListe extends RecyclerView.Adapter<AdapterListe.Red> {
             naslov = itemView.findViewById(R.id.naslov);
             tip = itemView.findViewById(R.id.tip);
             duzina = itemView.findViewById(R.id.duzina);
-            autor = itemView.findViewById(R.id.duzina);
+            autor = itemView.findViewById(R.id.autor);
             itemView.setOnClickListener(this);
         }
 
         @Override
         public void onClick(View view) {
             if (mClickListener != null) mClickListener.onItemClick(view, getAdapterPosition());
+
         }
     }
 
@@ -90,7 +92,9 @@ public class AdapterListe extends RecyclerView.Adapter<AdapterListe.Red> {
     // potrebno kako bi mogli hvatati klikove/dodire
     public interface ItemClickListener {
         void onItemClick(View view, int position);
+
     }
+
 
     /*
     ***Filter način***
